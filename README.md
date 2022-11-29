@@ -5,7 +5,7 @@
 🌱 Atualmente estou aprendendo JS / React <br>
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-mota-35ba4422b/)
 
 # 💻 Tecnologias que utilizo:
