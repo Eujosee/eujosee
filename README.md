@@ -2,7 +2,8 @@
 
 # 💫 Sobre mim:
 🔭 Olá! Eu sou o José 😄 <br>
-🌱 Atualmente estou aprendendo JS / React <br>
+📖 Estudante no curso Técnico em Desenvolvimento de Sistemas <br>
+🌱 Atualmente estou aprendendo React.js <br>
 
 
 ## 🌐 Redes sociais:
