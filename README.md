@@ -4,6 +4,7 @@
 🔭 Olá! Eu sou o José 😄 <br>
 📖 Estudante no curso Técnico em Desenvolvimento de Sistemas <br>
 🌱 Atualmente estou aprendendo React.js <br>
+🧑‍💻 Meu portfólio: https://meuportfolio-jose.netlify.app/ <br>
 
 
 ## 🌐 Redes sociais:
